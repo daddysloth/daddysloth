@@ -1,7 +1,7 @@
 # Xi Lu PhD (aka daddy sloth)
 
 PhD | Data Professsional | AI Advisor | Hybrid Intelligence
-Chief Scientist & Founder of **Sloths Intel**
+Chief Scientist & Founder of [**Sloths Intel**](https://slothsintel.com/)
 
 I build **deliberate AI systems** that transform messy real-world data into reliable insight.
 
@@ -18,7 +18,7 @@ Rather than chasing artificial “general intelligence”, my focus is **Hybrid 
 
 ## Current Work
 
-I am currently building open tools and systems through **Sloths Intel Ltd**, exploring how small organisations and independent professionals can use AI responsibly and effectively.
+I am currently building open tools and systems through [**Sloths Intel**](https://slothsintel.com/), exploring how small organisations and independent professionals can use AI responsibly and effectively.
 
 Key themes include:
 
@@ -68,7 +68,7 @@ Sloths are often misunderstood as slow.
 
 In reality they are **deliberate, energy-efficient, and resilient** in complex environments.
 
-Sloths Intel adopts the same philosophy:  
+[**Sloths Intel**](https://slothsintel.com/) adopts the same philosophy:  
 build systems that move carefully, avoid noise, and produce **clear decisions when they matter**.
 
 ---
