@@ -1,64 +1,75 @@
 # Xi Lu PhD (aka daddy sloth)
 
-PhD | Data Professsional | AI Advisor | Hybrid Intelligence
-Chief Scientist & Founder of [**Sloths Intel**](https://slothsintel.com/)
+Data Professional | AI Advisor | Hybrid Intelligence Engineer
+Chief Scientist & Founder - [**Sloths Intel**](https://slothsintel.com/)
 
-I build **deliberate AI systems** that transform messy real-world data into reliable insight.
+I build **deliberate data and AI systems** that turn messy real-world information into structured insight and practical decision support.
 
-My work sits at the intersection of:
+My work focuses on **Hybrid Intelligence** — systems where data pipelines, machine learning, domain expertise, and human judgement work together to produce results that remain reliable under real-world complexity.
 
-• data engineering  
-• applied machine learning  
-• decision-support systems  
-• human–AI collaboration  
-
-Rather than chasing artificial “general intelligence”, my focus is **Hybrid Intelligence** — systems where machine learning, structured data, domain knowledge, and human judgement work together.
+Rather than pursuing abstract artificial intelligence, I focus on **applied intelligence systems** that help individuals and small organisations understand their data and make better decisions.
 
 ---
 
-## Current Work
+## Current Focus
 
-I am currently building open tools and systems through [**Sloths Intel**](https://slothsintel.com/), exploring how small organisations and independent professionals can use AI responsibly and effectively.
+My current work centres on developing practical tools and research prototypes through [**Sloths Intel**](https://slothsintel.com/), exploring how hybrid intelligence systems can support everyday decision making.
 
-Key themes include:
+Key directions include:
 
-• hybrid AI workflows  
-• data integration and analysis  
-• decision-support systems  
-• automation pipelines  
-• practical generative AI
+• hybrid intelligence systems for real-world decision support  
+• data integration and curation from fragmented sources  
+• applied analytics for freelancers and small organisations  
+• automation pipelines that transform raw data into insight  
+• human-AI collaboration rather than full automation
+
+Much of this work sits between **research and engineering** — building systems that are both conceptually sound and practically useful.
 
 ---
 
 ## Open Projects
 
-### AutoTrac
-Track where time actually goes.
+### AutoTrac  
+**Understand where time and income actually go.**
 
-A lightweight analytics platform designed for freelancers and small teams to analyse time usage, project work, and income patterns.
+AutoTrac is a lightweight analytics platform designed for freelancers and small teams to analyse time usage, project activity, and income patterns.
 
 Technologies  
-TypeScript · Web analytics · Data pipelines
+TypeScript · analytics pipelines · web tools
 
 ---
 
-### AutoWeave
-Turn scattered data into structured insight.
+### AutoWeave  
+**Turn scattered datasets into structured analytical outputs.**
 
-AutoWeave integrates multiple datasets into coherent analytical outputs, helping users build reliable datasets from messy inputs.
+AutoWeave explores hybrid approaches to data integration and curation, helping users merge multiple datasets into coherent analytical structures.
 
 Technologies  
-JavaScript · Data processing · Visualization
+JavaScript · data processing · visualisation
 
 ---
 
-### AutoVisuals
-Automated visual asset generation pipeline.
+### AutoPred  
+Predictive modelling for decision support.
 
-A system designed to automate the creation, processing, and organisation of visual assets through generative workflows.
+AutoPred explores practical predictive analytics built on top of structured datasets.  
+The project focuses on lightweight forecasting models that help small organisations and local businesses anticipate trends, demand, and operational outcomes.
 
 Technologies  
-Python · AI pipelines · image processing
+Python · Bayesian modelling · statistical learning · data pipelines
+
+Status  
+Experimental research project
+
+---
+
+### AutoVisuals  
+**Automation pipelines for generative visual workflows.**
+
+AutoVisuals is an experimental pipeline designed to automate the generation, processing, and organisation of visual assets through AI-assisted workflows.
+
+Technologies  
+Python · generative workflows · image processing
 
 ---
 
@@ -66,30 +77,27 @@ Python · AI pipelines · image processing
 
 Sloths are often misunderstood as slow.
 
-In reality they are **deliberate, energy-efficient, and resilient** in complex environments.
+In reality they are **deliberate, energy-efficient, and resilient in complex environments**.
 
 [**Sloths Intel**](https://slothsintel.com/) adopts the same philosophy:  
-build systems that move carefully, avoid noise, and produce **clear decisions when they matter**.
+build systems that avoid noise, conserve effort, and produce **clear, reliable decisions when they matter**.
 
 ---
 
 ## Links
 
-Personal site  
-https://xilu.slothsintel.com
+[Personal site](https://xilu.slothsintel.com)
 
-Company  
-https://slothsintel.com
+[Sloths Intel site](https://slothsintel.com)
 
-GitHub Organisation  
-https://github.com/slothsintel
+[Sloths Intel GitHub](https://github.com/slothsintel)
 
 ---
 
 ## Research Interests
 
 Hybrid Intelligence  
-AI evaluation and reliability  
-Data engineering pipelines  
-Decision-support systems  
+Applied data systems  
+Decision-support architectures  
+Human-AI collaboration  
 Responsible AI deployment
