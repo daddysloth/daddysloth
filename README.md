@@ -22,31 +22,39 @@ Key directions include:
 
 Much of this work sits between **research and engineering** - building systems that are both conceptually sound and practically useful.
 
+## Philosophy
+
+Sloths are often misunderstood for slow.
+
+In reality, they are **efficient and deliberate** - evolved to operate in complex environments with minimal waste.
+
+[**Sloths Intel**](https://slothsintel.com/) adopts the same philosophy: build systems that avoid noise, conserve effort, and produce **clear, reliable decisions when they matter**.
+
 ## Open Projects
 
-### [AutoTrac](https://autotrac.slothsintel.com/)
+### [AutoTrac](https://github.com/slothsintel/AutoTrac)
 **Understand where time and income actually go.**       
 
 AutoTrac is a lightweight analytics platform designed for freelancers and small teams to analyse time usage, project activity, and income patterns.
 
-
-<img src="assets/work/selected/autotrac_screenshot.jpg" align="center" width="360" />   
+[<img src="assets/work/selected/autotrac_screenshot.jpg" align="center" width="600/>](https://autotrac.slothsintel.com/)  
 
 Technologies  
 TypeScript | analytics pipelines | web tools | Python
 
-### [AutoWeave](https://autoweave.slothsintel.com/)
+### [AutoWeave](https://github.com/slothsintel/AutoWeave)
  
 **Turn scattered datasets into structured analytical outputs.**
 
 AutoWeave explores hybrid approaches to data integration and curation, helping users merge multiple datasets into coherent analytical structures.
 
-<img src="assets/work/selected/autoweave.png" align="center" width="360" />
+[<img src="assets/work/selected/autoweave.png" align="center" width="360" />](https://autoweave.slothsintel.com/)
+
 
 Technologies  
 JavaScript | data processing | visualisation | Python
 
-### [AutoPred](http://autopred.slothsintel.com/)
+### [AutoPred](https://github.com/slothsintel/AutoPred)
 Predictive modelling for decision support.
 
 AutoPred explores practical predictive analytics built on top of structured datasets.  
@@ -58,7 +66,7 @@ Python | Bayesian modelling | statistical learning | data pipelines
 Status  
 Experimental research project
 
-### [AutoVisuals](https://autovisuals.slothsintel.com/)
+### [AutoVisuals](https://github.com/slothsintel/AutoVisuals)
  
 **Automation pipelines for generative visual workflows.**
 
@@ -67,17 +75,9 @@ AutoVisuals is an experimental pipeline designed to automate the generation, pro
 Technologies  
 Python | generative workflows | image processing | AI image
 
-*Find the full list of products and details at* [*Sloths Intel Products Hub*](https://slothsintel.com/products.html)
+***Find the full list of products and details at*** [*Sloths Intel Products Hub*](https://slothsintel.com/products.html)
 
-## Philosophy
-
-Sloths are often misunderstood for slow.
-
-In reality, they are **efficient and deliberate** - evolved to operate in complex environments with minimal waste.
-
-[**Sloths Intel**](https://slothsintel.com/) adopts the same philosophy: build systems that avoid noise, conserve effort, and produce **clear, reliable decisions when they matter**.
-
-## Links
+## Useful Links
 
 [Personal site](https://xilu.slothsintel.com) |
 [Sloths Intel site](https://slothsintel.com) |
