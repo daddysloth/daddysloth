@@ -1,14 +1,12 @@
 # Xi Lu PhD (aka daddy sloth)
 
-Data Professional | AI Advisor | Hybrid Intelligence Engineer | Chief Scientist & Founder @[**Sloths Intel**](https://slothsintel.com/)
+Data Professional | AI Advisor | Hybrid Intelligence Engineer | [Chief Scientist & Founder](https://xilu.slothsintel.com/work.html#currentfocus) @[**Sloths Intel**](https://slothsintel.com/)
 
 I build **deliberate data and AI systems** that turn messy real-world information into structured insight and practical decision support.
 
-My work focuses on **Hybrid Intelligence** - ystems where data pipelines, machine learning, domain expertise, and human judgement work together to produce results that remain reliable under real-world complexity.
+My work focuses on [**Hybrid Intelligence**](https://slothsintel.com/index.html#approach) - ystems where data pipelines, machine learning, domain expertise, and human judgement work together to produce results that remain reliable under real-world complexity.
 
 Rather than pursuing abstract artificial intelligence, I focus on **applied intelligence systems** that help individuals and small organisations understand their data and make better decisions.
-
----
 
 ## Current Focus
 
@@ -16,7 +14,7 @@ My current work centres on developing practical tools and research prototypes th
 
 Key directions include:
 
-• Hybrid Intelligence systems for real-world decision support  
+• **Hybrid Intelligence** systems for real-world decision support  
 • data integration and curation from fragmented sources  
 • applied analytics for freelancers and small organisations  
 • automation pipelines that transform raw data into insight  
@@ -24,36 +22,31 @@ Key directions include:
 
 Much of this work sits between **research and engineering** - building systems that are both conceptually sound and practically useful.
 
----
-
 ## Open Projects
 
-### AutoTrac  
+### [AutoTrac](https://autotrac.slothsintel.com/)
 **Understand where time and income actually go.**       
 
 AutoTrac is a lightweight analytics platform designed for freelancers and small teams to analyse time usage, project activity, and income patterns.
 
 
-<img src="assets/work/selected/autotrac_screenshot.jpg" align="center" width="180" />   
+<img src="assets/work/selected/autotrac_screenshot.jpg" align="center" width="360" />   
 
 Technologies  
 TypeScript | analytics pipelines | web tools | Python
 
----
-
-### AutoWeave  
+### [AutoWeave](https://autoweave.slothsintel.com/)
+ 
 **Turn scattered datasets into structured analytical outputs.**
 
 AutoWeave explores hybrid approaches to data integration and curation, helping users merge multiple datasets into coherent analytical structures.
 
-<img src="assets/work/selected/autoweave.png" align="center" width="180" />
+<img src="assets/work/selected/autoweave.png" align="center" width="360" />
 
 Technologies  
 JavaScript | data processing | visualisation | Python
 
----
-
-### AutoPred  
+### [AutoPred](http://autopred.slothsintel.com/)
 Predictive modelling for decision support.
 
 AutoPred explores practical predictive analytics built on top of structured datasets.  
@@ -65,9 +58,8 @@ Python | Bayesian modelling | statistical learning | data pipelines
 Status  
 Experimental research project
 
----
-
-### AutoVisuals  
+### [AutoVisuals](https://autovisuals.slothsintel.com/)
+ 
 **Automation pipelines for generative visual workflows.**
 
 AutoVisuals is an experimental pipeline designed to automate the generation, processing, and organisation of visual assets through AI-assisted workflows.
@@ -75,7 +67,7 @@ AutoVisuals is an experimental pipeline designed to automate the generation, pro
 Technologies  
 Python | generative workflows | image processing | AI image
 
----
+*Find the full list of products and details at* [*Sloths Intel Products Hub*](https://slothsintel.com/products.html)
 
 ## Philosophy
 
@@ -85,15 +77,11 @@ In reality, they are **efficient and deliberate** - evolved to operate in comple
 
 [**Sloths Intel**](https://slothsintel.com/) adopts the same philosophy: build systems that avoid noise, conserve effort, and produce **clear, reliable decisions when they matter**.
 
----
-
 ## Links
 
 [Personal site](https://xilu.slothsintel.com) |
 [Sloths Intel site](https://slothsintel.com) |
 [Sloths Intel GitHub](https://github.com/slothsintel)
-
----
 
 ## Research Interests
 
