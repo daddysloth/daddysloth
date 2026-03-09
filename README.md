@@ -10,7 +10,7 @@ Rather than pursuing abstract artificial intelligence, I focus on **applied inte
 
 ## Current Focus
 
-My current work centres on developing practical tools and research prototypes through [**Sloths Intel**](https://slothsintel.com/), exploring how **Hybrid Intelligence** systems can support everyday decision making.
+My current work focuses on developing practical tools and research prototypes through [**Sloths Intel**](https://slothsintel.com/), exploring how **Hybrid Intelligence** systems can support everyday decision making.
 
 Key directions include:
 
@@ -32,8 +32,10 @@ In reality, they are **efficient and deliberate** - evolved to operate in comple
 
 ## Open Projects
 
+Together these projects form the Sloths Intel Hybrid Intelligence stack for data capture, integration, prediction, and automation. *Find the full list of products and details at* [*Sloths Intel Products Hub*](https://slothsintel.com/products.html).
+
 ### [AutoTrac](https://github.com/slothsintel/AutoTrac)
-**Understand where time and income actually go.**       
+**Analytics platform for understanding how time and income actually flow.**       
 
 AutoTrac is a lightweight analytics platform designed for freelancers and small teams to analyse time usage, project activity, and income patterns.
 
@@ -44,7 +46,7 @@ TypeScript | analytics pipelines | web tools | Python
 
 ### [AutoWeave](https://github.com/slothsintel/AutoWeave)
  
-**Turn scattered datasets into structured analytical outputs.**
+**Predictive modelling for practical decision support.**
 
 AutoWeave explores hybrid approaches to data integration and curation, helping users merge multiple datasets into coherent analytical structures.
 
@@ -74,8 +76,6 @@ AutoVisuals is an experimental pipeline designed to automate the generation, pro
 
 Technologies  
 Python | generative workflows | image processing | AI image
-
-***Find the full list of products and details at*** [*Sloths Intel Products Hub*](https://slothsintel.com/products.html)
 
 ## Useful Links
 
