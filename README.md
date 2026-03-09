@@ -1,6 +1,6 @@
 # Xi Lu PhD (aka daddy sloth)
 
-Data Professional | AI Advisor | Hybrid Intelligence Engineer | [Chief Scientist & Founder](https://xilu.slothsintel.com/work.html#currentfocus) @[**Sloths Intel**](https://slothsintel.com/)
+Data Professional | AI Advisor | Hybrid Intelligence Engineer | [Chief Scientist & Founder](https://xilu.slothsintel.com/work.html#currentfocus)@[**Sloths Intel**](https://slothsintel.com/)
 
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
 ![AI](https://img.shields.io/badge/AI-Hybrid%20Intelligence-purple)
