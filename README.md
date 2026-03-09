@@ -2,6 +2,11 @@
 
 Data Professional | AI Advisor | Hybrid Intelligence Engineer | [Chief Scientist & Founder](https://xilu.slothsintel.com/work.html#currentfocus) @[**Sloths Intel**](https://slothsintel.com/)
 
+![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
+![AI](https://img.shields.io/badge/AI-Hybrid%20Intelligence-purple)
+![Data](https://img.shields.io/badge/Data-Engineering-green)
+![Org](https://img.shields.io/badge/Sloths%20Intel-Research-black)
+
 I build **deliberate data and AI systems** that turn messy real-world information into structured insight and practical decision support.
 
 My work focuses on [**Hybrid Intelligence**](https://slothsintel.com/index.html#approach) - ystems where data pipelines, machine learning, domain expertise, and human judgement work together to produce results that remain reliable under real-world complexity.
