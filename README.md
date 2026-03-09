@@ -37,7 +37,7 @@ In reality, they are **efficient and deliberate** - evolved to operate in comple
 
 AutoTrac is a lightweight analytics platform designed for freelancers and small teams to analyse time usage, project activity, and income patterns.
 
-[<img src="assets/work/selected/autotrac_screenshot.jpg" align="center" width="600/>](https://autotrac.slothsintel.com/)  
+[<img src="assets/work/selected/autotrac_screenshot.jpg" align="center" width="600"/>](https://autotrac.slothsintel.com/)  
 
 Technologies  
 TypeScript | analytics pipelines | web tools | Python
@@ -48,7 +48,7 @@ TypeScript | analytics pipelines | web tools | Python
 
 AutoWeave explores hybrid approaches to data integration and curation, helping users merge multiple datasets into coherent analytical structures.
 
-[<img src="assets/work/selected/autoweave.png" align="center" width="360" />](https://autoweave.slothsintel.com/)
+[<img src="assets/work/selected/autoweave.png" align="center" width="600" />](https://autoweave.slothsintel.com/)
 
 
 Technologies  
