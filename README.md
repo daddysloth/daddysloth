@@ -1,21 +1,21 @@
 # Xi Lu PhD (aka daddy sloth)
 
-Data Professional | AI Advisor | Hybrid Intelligence Engineer | [Chief Scientist & Founder](https://xilu.slothsintel.com/work.html#currentfocus)@[**Sloths Intel**](https://slothsintel.com/)
+Data Professional | AI Advisor | Hybrid Intelligence Engineer | [Chief Scientist & Founder](https://xilu.sloxen.com/work.html#currentfocus)@[**Sloxen**](https://sloxen.com/)
 
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
 ![AI](https://img.shields.io/badge/AI-Hybrid%20Intelligence-purple)
 ![Data](https://img.shields.io/badge/Data-Engineering-green)
-![Org](https://img.shields.io/badge/Sloths%20Intel-Research-black)
+![Org](https://img.shields.io/badge/Sloxen%20Research-black)
 
 I build **deliberate data and AI systems** that turn messy real-world information into structured insight and practical decision support.
 
-My work focuses on [**Hybrid Intelligence**](https://slothsintel.com/index.html#approach) - ystems where data pipelines, machine learning, domain expertise, and human judgement work together to produce results that remain reliable under real-world complexity.
+My work focuses on [**Hybrid Intelligence**](https://sloxen.com/index.html#approach) - ystems where data pipelines, machine learning, domain expertise, and human judgement work together to produce results that remain reliable under real-world complexity.
 
 Rather than pursuing abstract artificial intelligence, I focus on **applied intelligence systems** that help individuals and small organisations understand their data and make better decisions.
 
 ## Current Focus
 
-My current work focuses on developing practical tools and research prototypes through [**Sloths Intel**](https://slothsintel.com/), exploring how **Hybrid Intelligence** systems can support everyday decision making.
+My current work focuses on developing practical tools and research prototypes through [**Sloxen**](https://sloxen.com/), exploring how **Hybrid Intelligence** systems can support everyday decision making.
 
 Key directions include:
 
@@ -33,35 +33,35 @@ Sloths are often misunderstood for slow.
 
 In reality, they are **efficient and deliberate** - evolved to operate in complex environments with minimal waste.
 
-[**Sloths Intel**](https://slothsintel.com/) adopts the same philosophy: build systems that avoid noise, conserve effort, and produce **clear, reliable decisions when they matter**.
+[**Sloxen**](https://sloxen.com/) adopts the same philosophy: build systems that avoid noise, conserve effort, and produce **clear, reliable decisions when they matter**.
 
 ## Open Projects
 
-Together these projects form the Sloths Intel Hybrid Intelligence stack for data capture, integration, prediction, and automation. *Find the full list of products and details at* [*Sloths Intel Products Hub*](https://slothsintel.com/products.html).
+Together these projects form the Sloxen Hybrid Intelligence stack for data capture, integration, prediction, and automation. *Find the full list of products and details at* [*Sloxen Products Hub*](https://sloxen.com/products.html).
 
-### [AutoTrac](https://github.com/slothsintel/AutoTrac)
+### [AutoTrac](https://github.com/sloxen/AutoTrac)
 **Analytics platform for understanding how time and income actually flow.**       
 
 AutoTrac is a lightweight analytics platform designed for freelancers and small teams to analyse time usage, project activity, and income patterns.
 
-[<img src="assets/work/selected/autotrac_screenshot.jpg" align="center" width="600"/>](https://autotrac.slothsintel.com/)  
+[<img src="assets/work/selected/autotrac_screenshot.jpg" align="center" width="600"/>](https://autotrac.sloxen.com/)  
 
 Technologies  
 TypeScript | analytics pipelines | web tools | Python
 
-### [AutoWeave](https://github.com/slothsintel/AutoWeave)
+### [AutoWeave](https://github.com/sloxen/AutoWeave)
  
 **Predictive modelling for practical decision support.**
 
 AutoWeave explores hybrid approaches to data integration and curation, helping users merge multiple datasets into coherent analytical structures.
 
-[<img src="assets/work/selected/autoweave.png" align="center" width="600" />](https://autoweave.slothsintel.com/)
+[<img src="assets/work/selected/autoweave.png" align="center" width="600" />](https://autoweave.sloxen.com/)
 
 
 Technologies  
 JavaScript | data processing | visualisation | Python
 
-### [AutoPred](https://github.com/slothsintel/AutoPred)
+### [AutoPred](https://github.com/sloxen/AutoPred)
 Predictive modelling for decision support.
 
 AutoPred explores practical predictive analytics built on top of structured datasets.  
@@ -73,7 +73,7 @@ Python | Bayesian modelling | statistical learning | data pipelines
 Status  
 Experimental research project
 
-### [AutoVisuals](https://github.com/slothsintel/AutoVisuals)
+### [AutoVisuals](https://github.com/sloxen/AutoVisuals)
  
 **Automation pipelines for generative visual workflows.**
 
@@ -84,9 +84,9 @@ Python | generative workflows | image processing | AI image
 
 ## Useful Links
 
-[Personal site](https://xilu.slothsintel.com) |
-[Sloths Intel site](https://slothsintel.com) |
-[Sloths Intel GitHub](https://github.com/slothsintel)
+[Personal site](https://xilu.sloxen.com) |
+[Sloxen site](https://sloxen.com) |
+[Sloxen GitHub](https://github.com/sloxen)
 
 ## Research Interests
 
