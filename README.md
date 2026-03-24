@@ -5,7 +5,7 @@ Data Professional | AI Advisor | Hybrid Intelligence Engineer | [Chief Scientist
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
 ![AI](https://img.shields.io/badge/AI-Hybrid%20Intelligence-purple)
 ![Data](https://img.shields.io/badge/Data-Engineering-green)
-![Org](https://img.shields.io/badge/Sloxen™-Research-black)
+![Org](https://img.shields.io/badge/Research-Sloxen™-black)
 
 I build **deliberate data and AI systems** that turn messy real-world information into structured insight and practical decision support.
 
