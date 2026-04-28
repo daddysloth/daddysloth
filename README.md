@@ -68,10 +68,7 @@ AutoPred explores practical predictive analytics built on top of structured data
 The project focuses on lightweight forecasting models that help small organisations and local businesses anticipate trends, demand, and operational outcomes.
 
 Technologies  
-Python | Bayesian modelling | statistical learning | data pipelines
-
-Status  
-Experimental research project
+Python | machine learning | statistical learning | data pipelines
 
 ### [AutoVisuals](https://github.com/sloxen/AutoVisuals)
  
