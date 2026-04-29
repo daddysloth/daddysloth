@@ -11,7 +11,7 @@ I build **deliberate data and AI systems** that turn messy real-world informatio
 
 My work focuses on [**Hybrid Intelligence**](https://sloxen.com/index.html#approach) - ystems where data pipelines, machine learning, domain expertise, and human judgement work together to produce results that remain reliable under real-world complexity.
 
-Rather than pursuing abstract artificial intelligence, I focus on **applied intelligence systems** that help individuals and small organisations understand their data and make better decisions.
+Rather than pursuing abstract artificial intelligence, I focus on **Hybrid Intelligence System** that help individuals and small organisations understand their data and make better decisions.
 
 ## Current Focus
 
