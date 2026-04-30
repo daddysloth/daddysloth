@@ -1,6 +1,6 @@
 # Xi Lu PhD (aka daddy sloth)
 
-Data Professional | AI Advisor | Hybrid Intelligence Systems(HISs™) Engineer | [Chief Scientist & Founder](https://xilu.sloxen.com/work.html#currentfocus)@[**Sloxen™**](https://sloxen.com/)
+Data Professional | AI Advisor | Hybrid Intelligence Systems(HISx™) Engineer | [Chief Scientist & Founder](https://xilu.sloxen.com/work.html#currentfocus)@[**Sloxen™**](https://sloxen.com/)
 
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
 ![AI](https://img.shields.io/badge/AI-Hybrid%20Intelligence-purple)
@@ -9,17 +9,17 @@ Data Professional | AI Advisor | Hybrid Intelligence Systems(HISs™) Engineer |
 
 I build **deliberate data and AI systems** that turn messy real-world information into structured insight and practical decision support.
 
-My work focuses on [**Hybrid Intelligence Systems**](https://sloxen.com/index.html#approach)(HISs™) - systems where data pipelines, machine learning, domain expertise, and human judgement work together to produce results that remain reliable under real-world complexity.
+My work focuses on [**Hybrid Intelligence Systems**](https://sloxen.com/index.html#approach)(HISx™) - systems where data pipelines, machine learning, domain expertise, and human judgement work together to produce results that remain reliable under real-world complexity.
 
-Rather than pursuing abstract artificial intelligence, I focus on **HISs™** that help individuals and small organisations understand their data and make better decisions.
+Rather than pursuing abstract artificial intelligence, I focus on **HISx™** that help individuals and small organisations understand their data and make better decisions.
 
 ## Current Focus
 
-My current work focuses on developing practical tools and research prototypes through [**Sloxen™**](https://sloxen.com/), exploring how **HISs™** support everyday decision making.
+My current work focuses on developing practical tools and research prototypes through [**Sloxen™**](https://sloxen.com/), exploring how **HISx™** support everyday decision making.
 
 Key directions include:
 
-• **HISs™**  for real-world decision support  
+• **HISx™**  for real-world decision support  
 • data integration and curation from fragmented sources  
 • applied analytics for freelancers and small organisations  
 • automation pipelines that transform raw data into insight  
@@ -37,7 +37,7 @@ In reality, they are **efficient and deliberate** - evolved to operate in comple
 
 ## Open Projects
 
-Together these projects form the Sloxen™ HISs™ stack for data capture, integration, prediction, and automation. *Find the full list of products and details at* [*Sloxen Products Hub*](https://sloxen.com/products.html).
+Together these projects form the Sloxen™ HISx™ stack for data capture, integration, prediction, and automation. *Find the full list of products and details at* [*Sloxen Products Hub*](https://sloxen.com/products.html).
 
 ### [AutoTrac](https://github.com/sloxen/AutoTrac)
 **Analytics platform for understanding how time and income actually flow.**       
@@ -87,7 +87,7 @@ Python | generative workflows | image processing | AI image
 
 ## Research Interests
 
-HISs™ |
+HISx™ |
 Applied data systems |
 Decision-support architectures |
 Human-AI collaboration |
