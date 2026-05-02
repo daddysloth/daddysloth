@@ -9,7 +9,7 @@ Data Professional | AI Advisor | Hybrid Intelligence Systems(HISx™) Engineer |
 
 I build **deliberate data and AI systems** that turn messy real-world information into structured insight and practical decision support.
 
-My work focuses on [**Hybrid Intelligence Systems**](https://sloxen.com/index.html#approach)(HISx™) - systems where data pipelines, machine learning, domain expertise, and human judgement work together to produce results that remain reliable under real-world complexity.
+My work focuses on [**Hybrid Intelligence Systems (HISx™)**](https://sloxen.com/index.html#approach) - systems where data pipelines, machine learning, domain expertise, and human judgement work together to produce results that remain reliable under real-world complexity.
 
 Rather than pursuing abstract artificial intelligence, I focus on **HISx™** that help individuals and small organisations understand their data and make better decisions.
 
