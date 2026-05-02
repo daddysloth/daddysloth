@@ -11,15 +11,15 @@ I build **deliberate data and AI systems** that turn messy real-world informatio
 
 My work focuses on [**Hybrid Intelligence Systems (HISx™)**](https://sloxen.com/index.html#approach) - systems where data pipelines, machine learning, domain expertise, and human judgement work together to produce results that remain reliable under real-world complexity.
 
-Rather than pursuing abstract artificial intelligence, I focus on **HISx™** that help individuals and small organisations understand their data and make better decisions.
+Rather than pursuing abstract artificial intelligence, I focus on [**HISx™**](https://sloxen.com/products.html) that help individuals and small organisations understand their data and make better decisions.
 
 ## Current Focus
 
-My current work focuses on developing practical tools and research prototypes through [**Sloxen™**](https://sloxen.com/), exploring how **HISx™** support everyday decision making.
+My current work focuses on developing practical tools and research prototypes through [**Sloxen™**](https://sloxen.com/), exploring how [**HISx™**](https://sloxen.com/products.html) support everyday decision making.
 
 Key directions include:
 
-• **HISx™**  for real-world decision support  
+• [**HISx™**](https://sloxen.com/products.html)  for real-world decision support  
 • data integration and curation from fragmented sources  
 • applied analytics for freelancers and small organisations  
 • automation pipelines that transform raw data into insight  
@@ -37,7 +37,7 @@ In reality, they are **efficient and deliberate** - evolved to operate in comple
 
 ## Open Projects
 
-Together these projects form the Sloxen™ HISx™ stack for data capture, integration, prediction, and automation. *Find the full list of products and details at* [*Sloxen Products Hub*](https://sloxen.com/products.html).
+Together these projects form the [**Sloxen™**](https://Sloxen.com/) [**HISx™**](https://sloxen.com/products.html) stack for data capture, integration, prediction, and automation. *Find the full list of products and details at* [*Sloxen Products Hub*](https://sloxen.com/products.html).
 
 ### [AutoTrac](https://github.com/sloxen/AutoTrac)
 **Analytics platform for understanding how time and income actually flow.**       
@@ -74,7 +74,7 @@ Python | machine learning | statistical learning | data pipelines
  
 **Automation pipelines for generative visual workflows.**
 
-AutoVisuals is an experimental pipeline designed to automate the generation, processing, and organisation of visual assets through AI-assisted workflows.
+AutoVisuals is complete end-to-end [**HISx™**](https://sloxen.com/products.html) solution designed to automate the generation, processing, and organisation of visual assets through AI-assisted workflows.
 
 Technologies  
 Python | generative workflows | image processing | AI image
@@ -87,7 +87,7 @@ Python | generative workflows | image processing | AI image
 
 ## Research Interests
 
-HISx™ |
+[**HISx™**](https://sloxen.com/products.html) |
 Applied data systems |
 Decision-support architectures |
 Human-AI collaboration |
