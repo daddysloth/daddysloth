@@ -1,11 +1,11 @@
 # Xi Lu PhD (aka daddy sloth)
 
-Data Professional | AI Advisor | Hybrid Intelligence Systems(HISx™) Engineer | [Chief Scientist & Founder](https://xilu.sloxen.com/work.html#currentfocus)@[**Sloxen™**](https://sloxen.com/)
+Data Professional | AI Advisor | Hybrid Intelligence Systems(HISx™) Engineer | [Chief Scientist & Founder](https://xilu.sloxen.com/work.html#currentfocus)@[**Sloxen®**](https://sloxen.com/)
 
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
 ![AI](https://img.shields.io/badge/AI-Hybrid%20Intelligence-purple)
 ![Data](https://img.shields.io/badge/Data-Engineering-green)
-![Org](https://img.shields.io/badge/Research-Sloxen™-black)
+![Org](https://img.shields.io/badge/Research-Sloxen®-black)
 
 I build **deliberate data and AI systems** that turn messy real-world information into structured insight and practical decision support.
 
@@ -15,7 +15,7 @@ Rather than pursuing abstract artificial intelligence, I focus on [**HISx™**](
 
 ## Current Focus
 
-My current work focuses on developing practical tools and research prototypes through [**Sloxen™**](https://sloxen.com/), exploring how [**HISx™**](https://sloxen.com/products.html) support everyday decision making.
+My current work focuses on developing practical tools and research prototypes through [**Sloxen®**](https://sloxen.com/), exploring how [**HISx™**](https://sloxen.com/products.html) support everyday decision making.
 
 Key directions include:
 
@@ -33,11 +33,11 @@ Sloths are often misunderstood for slow.
 
 In reality, they are **efficient and deliberate** - evolved to operate in complex environments with minimal waste.
 
-[**Sloxen™**](https://Sloxen.com/) adopts the same philosophy: build systems that avoid noise, conserve effort, and produce **clear, reliable decisions when they matter**.
+[**Sloxen®**](https://Sloxen.com/) adopts the same philosophy: build systems that avoid noise, conserve effort, and produce **clear, reliable decisions when they matter**.
 
 ## Open Projects
 
-Together these projects form the [**Sloxen™**](https://Sloxen.com/) [**HISx™**](https://sloxen.com/products.html) stack for data capture, integration, prediction, and automation. *Find the full list of products and details at* [*Sloxen Products Hub*](https://sloxen.com/products.html).
+Together these projects form the [**Sloxen®**](https://Sloxen.com/) [**HISx™**](https://sloxen.com/products.html) stack for data capture, integration, prediction, and automation. *Find the full list of products and details at* [*Sloxen Products Hub*](https://sloxen.com/products.html).
 
 ### [AutoTrac](https://github.com/sloxen/AutoTrac)
 **Analytics platform for understanding how time and income actually flow.**       
@@ -82,8 +82,8 @@ Python | generative workflows | image processing | AI image
 ## Useful Links
 
 [Personal site](https://xilu.sloxen.com) |
-[Sloxen™ site](https://sloxen.com) |
-[Sloxen™ GitHub](https://github.com/sloxen)
+[Sloxen® site](https://sloxen.com) |
+[Sloxen® GitHub](https://github.com/sloxen)
 
 ## Research Interests
 
